@@ -60,6 +60,3 @@ $products = getProductsByCategory($conn, $selectedCategory);
 </body>
 
 </html>
-
-
-pppppppppppp
