@@ -61,7 +61,7 @@ $countShoes = getCountShoesProducts($conn);
         <div class="catalog-content">
             <div class="row">
                 <div class="image-container">
-                    <img src="" alt="">
+                    <img src="Image/jacket.jpg" alt="Jacket">
                 </div>
                 <div class="cat-text">
                     <h5>Jacket</h5>
@@ -73,7 +73,7 @@ $countShoes = getCountShoesProducts($conn);
             </div>
             <div class="row">
                 <div class="image-container">
-                    <img src="" alt="">
+                    <img src="Image/tshirt.jpg" alt="T-shirt">
                 </div>
                 <div class="cat-text">
                     <h5>T-Shirt</h5>
@@ -85,7 +85,7 @@ $countShoes = getCountShoesProducts($conn);
             </div>
             <div class="row">
                 <div class="image-container">
-                    <img src="" alt="">
+                    <img src="Image/pants.jpg" alt="Pants">
                 </div>
                 <div class="cat-text">
                     <h5>Pants</h5>
@@ -97,7 +97,7 @@ $countShoes = getCountShoesProducts($conn);
             </div>
             <div class="row">
                 <div class="image-container">
-                    <img src="" alt="">
+                    <img src="Image/shoes.jpg" alt="Shoes">
                 </div>
                 <div class="cat-text">
                     <h5>Shoes</h5>
